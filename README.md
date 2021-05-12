@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Yuri Simonov**!
-## I'm a beginner *Front-end developer* from Moscow (Russia).
+## I'm a *Front-end developer* from Moscow (Russia).
 ### What i use:
 - HTML;
 - CSS (SCSS);
