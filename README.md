@@ -7,8 +7,7 @@
 - React;
 - Photoshop;
 - Figma;
-- Gulp;
-- PHP.
+- Gulp.
 #
 ### Where can you find me: [VKontakte](https://vk.com/yura1596). Or you can write me here: [yura15-96@mail.ru](yura15-96@mail.ru).
 #
