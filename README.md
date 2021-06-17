@@ -1,6 +1,6 @@
 # 👋 Hi, my name is **Yuri Simonov**!
 ## I'm a *Front-end developer* from Moscow (Russia).
-### What i use:
+### What I use:
 - HTML;
 - CSS (SCSS);
 - JavaScript;
