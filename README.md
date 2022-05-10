@@ -5,6 +5,8 @@
 - CSS (SCSS);
 - JavaScript;
 - React;
+- Redux;
+- Node.js;
 - Photoshop;
 - Figma;
 - Gulp.
