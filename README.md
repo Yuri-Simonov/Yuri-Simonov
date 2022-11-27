@@ -6,7 +6,7 @@
 - JavaScript;
 - React;
 - Redux;
-- Node.js;
+- Angular;
 - Photoshop;
 - Figma;
 - Gulp.
