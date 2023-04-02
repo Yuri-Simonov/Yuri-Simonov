@@ -6,11 +6,11 @@
 - JavaScript;
 - React;
 - Redux;
-- Angular;
+- Angular (NgRx, Material);
 - Photoshop;
 - Figma;
 - Gulp.
 #
-### Where can you find me: [VKontakte](https://vk.com/yura1596). Or you can write me here: [yura15-96@mail.ru](yura15-96@mail.ru).
+### Where you can find me: [VKontakte](https://vk.com/yura1596). Or you can write me here: [yura15-96@mail.ru](yura15-96@mail.ru).
 #
 >*the path of a thousand li starts from the first step*
