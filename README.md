@@ -4,12 +4,13 @@
 - HTML;
 - CSS (SCSS);
 - JavaScript;
+- Angular (NgRx, Material);
+- TypeScript;
 - React;
 - Redux;
-- Angular (NgRx, Material);
-- Photoshop;
-- Figma;
-- Gulp.
+- MongoDB;
+- Node.js.
+
 #
 ### Where you can find me: [Telegram](https://t.me/dancerdied).
 #
