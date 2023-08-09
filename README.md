@@ -1,15 +1,13 @@
 # 👋 Hi, my name is **Yuri Simonov**!
 ## I'm a *Front-end developer* from Moscow (Russia).
-### What I use:
+### In my work I use:
 - HTML;
 - CSS (SCSS);
 - JavaScript;
-- Angular (NgRx, Material);
+- Angular;
+- NgRx;
 - TypeScript;
-- React;
-- Redux;
-- MongoDB;
-- Node.js.
+- Angular Material UI, Kendo Ui.
 
 #
 ### Where you can find me: [Telegram](https://t.me/dancerdied).
