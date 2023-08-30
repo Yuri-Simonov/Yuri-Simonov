@@ -7,9 +7,9 @@
 - Angular;
 - NgRx;
 - TypeScript;
-- Angular Material UI, Kendo Ui.
+- Angular Material UI, Kendo UI.
 
 #
-### Where you can find me: [Telegram](https://t.me/dancerdied).
+### You can find me here: [Telegram](https://t.me/dancerdied).
 #
 >*the path of a thousand li starts from the first step*
