@@ -55,10 +55,22 @@
 
 ### ⚙️ GitHub Analytics
 
-<p align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Yuri-Simonov&theme=ayu-mirage&date_format=j%20M%5B%20Y%5D" alt="Github stats" />
-  <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yuri-Simonov&theme=ayu-mirage&layout=compact" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Yuri-Simonov&theme=ayu-mirage&date_format=j%20M%5B%20Y%5D" alt="Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yuri-Simonov&theme=ayu-mirage&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+---
+
+#
+
+> _the path of a thousand li starts from the first step_
 
 [telegram]: https://t.me/dancerdied
 [youtube]: https://www.youtube.com/@Yuri_Simonov
